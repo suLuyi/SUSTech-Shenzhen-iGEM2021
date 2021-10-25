@@ -1,6 +1,7 @@
 # SUSTech-Shenzhen-iGEM2021
 HTML/CSS/JS code of 2021 iGEM team SUSTech-Shenzhen
 这个文档用于给南科大iGEM团队建立网页提供一些easy-accessible的建议与指南。
+一些子页面的源代码放到了package的分支中了
 ##### 1.需要持续整个比赛周期的注意事项。
 
 1.1信息的提前整合
